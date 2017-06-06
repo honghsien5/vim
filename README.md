@@ -1,2 +1,2 @@
 # vim
-personal vimrc
+personal vimrc using NeoBundle
